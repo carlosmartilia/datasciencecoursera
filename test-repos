@@ -1,0 +1,6 @@
+$ git init
+$ git commit "Create a text file called HelloWorld.md"
+$ git add HelloWorld.md
+$ git commit -i "Add the line ##This is a markdown file"
+$ echo "This is a mardownfile", HelloWorld,md
+$ git push origin master
