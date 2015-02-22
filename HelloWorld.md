@@ -1,5 +1,5 @@
 * My name is Carlos J.F. Martilia
-* I live in the Netherlands
+* I live in the Netherlands 
 * I am learning to use Git and GitHub
 --
 --
@@ -17,4 +17,4 @@
 -- Submit the link to the HelloWorld.md file on 
 -- your Github repo:
 -- 
-######(https://github.om/carlosmartilia/datasciencecoursera/blob/master/HelloWorld.md)
+######(https://github.om/carlosmartilia/datasciencecoursera/HelloWorld.md)
