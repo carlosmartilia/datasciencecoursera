@@ -17,4 +17,4 @@
 -- Submit the link to the HelloWorld.md file on 
 -- your Github repo:
 -- 
-######(https://github.om/carlosmartilia/datasciencecoursera/HelloWorld.md)
+######(https://github.com/carlosmartilia/datasciencecoursera/blob/master/HelloWorld.md)
